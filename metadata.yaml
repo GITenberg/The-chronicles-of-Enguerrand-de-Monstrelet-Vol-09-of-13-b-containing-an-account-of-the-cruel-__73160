@@ -1,0 +1,49 @@
+_repo: The-chronicles-of-Enguerrand-de-Monstrelet-Vol-09-of-13-b-containing-an-account-of-the-cruel-__73160
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Johnes, Thomas
+    birthdate: 1748
+    deathdate: 1816
+    gutenberg_agent_id: '46109'
+    url: http://www.gutenberg.org/2009/agents/46109
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Johnes
+creator:
+  author:
+    agent_name: Monstrelet, Enguerrand de
+    aliases:
+    - Monstrelet, Enguerran de
+    - De Monstrelet, Enguerrand
+    deathdate: 1453
+    gutenberg_agent_id: '46108'
+    url: http://www.gutenberg.org/2009/agents/46108
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Enguerrand_de_Monstrelet
+    - https://fr.wikipedia.org/wiki/Enguerrand_de_Monstrelet
+description: ''
+gutenberg_issued: '2024-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73160'
+language: en
+pgterms:marc905: 20150328124205monstrelet
+pgterms:marc906: '1810'
+pgterms:marc907: GB
+production_note: Graeme Mackreth and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bLongman, Hurst, Rees, Orme, and Brown, $c1810.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hundred Years'' War, 1339-1453'
+- !lcsh 'Europe -- History -- 476-1492 -- Sources'
+- !lcsh 'France -- History -- House of Valois, 1328-1589'
+- !lcc 'D'
+- GITenberg
+title: 'The chronicles of Enguerrand de Monstrelet, Vol. 09 [of 13] : $b containing
+  an account of the cruel civil wars between the houses of Orleans and Burgundy, of
+  the possession of Paris and Normandy by the English, their expulsion thence, and
+  of other memorable events that happened in the kingdom of France, as well as in
+  other countries'
+url: http://www.gutenberg.org/ebooks/73160
